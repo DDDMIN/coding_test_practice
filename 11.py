@@ -58,5 +58,5 @@ def simulate():
             direction = turn(direction, info[index][1])
             index += 1
     return time
-ㅇ
+
 print(simulate())
